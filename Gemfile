@@ -20,6 +20,7 @@ gem 'json'
 # testing
 gem 'rack-test'
 
+<<<<<<< HEAD
 # data encryption
 gem 'rbnacl-libsodium'
 
@@ -34,6 +35,8 @@ end
 # tasks
 gem 'rake'
 
+=======
+>>>>>>> 9d328b6ca140b903ee39a26dac215beda9838b3a
 group :production do
   gem 'pg'
 end
