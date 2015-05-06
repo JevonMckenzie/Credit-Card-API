@@ -33,3 +33,7 @@ end
 
 # tasks
 gem 'rake'
+
+group :production do
+  gem 'pg'
+end
